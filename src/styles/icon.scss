@@ -6,7 +6,7 @@
 
   @include hover(transform, scale(1.2));
 
-  @include on-tablets {
+  @include on-tablet {
     height: 32px;
     width: 32px;
   }
